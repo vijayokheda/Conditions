@@ -1,2 +1,2 @@
-# Conditions
-Condition question in python 
+# Loops 
+Loops question in python 
